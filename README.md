@@ -1,4 +1,4 @@
-#Clone of classic game space invaders using React and Canvas.
+Clone of classic game space invaders using React and Canvas.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
