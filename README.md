@@ -1,7 +1,7 @@
 Clone of classic game space invaders using React and Canvas.
  
-![alt text](screen-1.jgg "Initial Screen")
-![alt text](screen-2.jgg "Playing Screen")
+![alt text](screen-1.jpg "Initial Screen")
+![alt text](screen-2.jpg "Playing Screen")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
