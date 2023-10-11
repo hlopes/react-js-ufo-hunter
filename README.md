@@ -1,4 +1,6 @@
 Clone of classic game space invaders using React and Canvas.
+
+Based on the https://www.udemy.com/course/learn-javascript-with-fun-build-an-ufo-hunter-game/ udemy course.
  
 ![alt text](screen-1.jpg "Initial Screen")
 ![alt text](screen-2.jpg "Playing Screen")
